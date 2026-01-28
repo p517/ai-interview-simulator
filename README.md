@@ -32,16 +32,12 @@ A product thinker with the right tools can ship working software—fast.
 
 ✨ Conversational Interviews
 Alex doesn’t just read questions from a script—he asks relevant follow-ups in real time.
-
 🎙️ Voice-to-Voice Interaction
 Talk to Alex, he talks back. Like a Zoom call with a future hiring manager (minus the anxiety).
-
 📝 Live Captions
 All conversations are transcribed in real-time. Accessibility matters 💯.
-
 📊 Performance Reports
 Get detailed feedback on Product Sense, Problem Solving, Communication, and more—with actionable insights.
-
 🖥️ Sleek UI
 A video-call style interface with light & dark mode because vibes matter ✨.
 
