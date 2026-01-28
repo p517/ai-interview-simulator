@@ -1,11 +1,11 @@
-🤖 AI Interview Simulator: From Ghosted to Growth
+**🤖 AI Interview Simulator: From Ghosted to Growth**
 
 “Why just prepare harder… when you can build smarter?”
 After getting ghosted more times than I can count this interview season 👻, I had an aha moment. Instead of endlessly prepping, what if I built a real solution to the problem?
 So, I did. Enter:
 👉🏽 A realistic AI-powered interview simulator that gives the kind of actionable feedback I always wished I had as a job seeker.
 
-🎬 The Backstory
+**🎬 The Backstory**
 
 Job hunting is tough—let’s be honest:
 Mock interviews? Robotic.
@@ -16,7 +16,7 @@ I wanted something that felt real—like sitting across from a tough but fair hi
 So, I built “Alex”, an AI interviewer powered by Google Gemini AI and web tech magic.
 This isn’t just a passion project—it’s my way of turning rejection into resilience, using my skills in tech and product thinking.
 
-⚙️ My Role
+**⚙️ My Role**
 
 Full transparency: I’m a Product Management enthusiast and former Software Engineer, not a full-time dev. My superpowers lie in:
 
@@ -28,7 +28,7 @@ How I built it? With AI-assisted dev tools, focusing on functionality and user e
 This project proves what I believe deeply:
 A product thinker with the right tools can ship working software—fast.
 
-🧠 Key Features
+**🧠 Key Features**
 
 ✨ Conversational Interviews
 Alex doesn’t just read questions from a script—he asks relevant follow-ups in real time.
@@ -41,7 +41,7 @@ Get detailed feedback on Product Sense, Problem Solving, Communication, and more
 🖥️ Sleek UI
 A video-call style interface with light & dark mode because vibes matter ✨.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 I used AI to build an AI product… for an AI-driven job market. Full circle energy. 🔄
 AI Engine: Google Gemini API
