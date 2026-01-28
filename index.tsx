@@ -121,7 +121,10 @@ document.addEventListener('DOMContentLoaded', () => {
 async function initializeInterview() {
   try {
     // 1. Initialize API
-    ai = new GoogleGenAI({ apiKey: process.env.API_KEY! });
+    // ai = new GoogleGenAI({ apiKey: process.env.VITE_GEMINI_API_KEY! });
+    ai = new GoogleGenAI({
+      apiKey: import.meta.env.VITE_GEMINI_API_KEY
+    });
 
     // 2. Setup webcam and microphone
     await setupWebcam();
