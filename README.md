@@ -52,15 +52,15 @@ A video-call style interface with light & dark mode because vibes matter ✨.
 **🛠️ Tech Stack**
 
 I used AI to build an AI product… for an AI-driven job market. Full circle energy. 🔄
-AI Engine: Google Gemini API
+	AI Engine: Google Gemini API
 
-Frontend: TypeScript + HTML5 + CSS3
-
-Bundler: Vite ⚡
-
-Web APIs:
-	Web Speech API (speech-to-text)
+	Frontend: TypeScript + HTML5 + CSS3
 	
-	SpeechSynthesis API (text-to-speech)
+	Bundler: Vite ⚡
 	
-	WebRTC getUserMedia (camera + mic)
+	Web APIs:
+		Web Speech API (speech-to-text)
+		
+		SpeechSynthesis API (text-to-speech)
+		
+		WebRTC getUserMedia (camera + mic)
